@@ -6,7 +6,7 @@ Explanation of some fundamental Linux usage, and commands for getting around the
 
 - [Filesystem](filesystem/README.md)
     - [Home](filesystem/home.md)
-        - Your user's home folder on the Pi, where you keep your files
+        - Your user's home folder on the Pi, where you keep your files and documents
     - [Whole File system](filesystem/whole-filesystem.md)
         - The rest of the Linux file system
     - [Backup](filesystem/backup.md)
